@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Html, CSS, Sass, Tailwind JavaScript, Bootstrap, jQuery, React, Vue, Figma, Photoshop**
 
-- 📫 How to reach me **usmonovmaxsudovich27@gmail.com**
+- 📫 Email: **usmonovmaxsudovich27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
