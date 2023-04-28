@@ -2,8 +2,9 @@
 <h3 align="center">Frontend developer</h3>
 <h4 align="left"> Frontend programming started in Spring 2022. Currently a developer looking to delve deeper into JavaScript and learn how to work with the React library... </h4>
 
-[Telegram](https://t.me/Usmonovkh)
-[KakaoTalk](https://k.me/Usmonovkh)
+[💼 Portfolio](https://portfolio.uz) | [🗨️ Telegram](https://t.me/Usmonovkh) | [📧 Email](mailto:usmonovmaxsudovich27@gmail.com)
+
+<p>🗨 KakaoTalk | Usmonovkh</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigohmahram&label=Profile%20views&color=0e75b6&style=flat" alt="nigohmahram" /> </p>
 
