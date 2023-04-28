@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@hmaxsudovich" target="blank"><img src="https://img.shields.io/twitter/follow/@hmaxsudovich?logo=twitter&style=for-the-badge" alt="@hmaxsudovich" /></a> </p>
 
-- 🌱 I’m currently learning **Html, CSS, Sass, Tailwind JavaScript, Bootstrap, jQuery, React, Vue, Figma, Photoshop**
+- 🌱 I’m skills: **Html, CSS, Sass, Tailwind JavaScript, Bootstrap, jQuery, React, Vue, Figma, Photoshop**
 
 - 📫 Email: **usmonovmaxsudovich27@gmail.com**
 
